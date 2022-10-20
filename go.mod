@@ -1,3 +1,3 @@
-module github.com/hugoinaction/AcmeSearchSupport
+module github.com/clondon/AcmeSearchSupport
 
 go 1.16
